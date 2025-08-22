@@ -22,8 +22,8 @@ This project is an end-to-end machine learning solution designed to predict heal
 
 2.  **Clone the Repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <your-repository-name>
+    git clone https://github.com/samim29/ML-Project-Health-Premium-Predict.git
+    cd ML-Project-Health-Premium-Predict
     ```
 
 3.  **Install Dependencies:**
